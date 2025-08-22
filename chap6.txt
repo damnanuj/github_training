@@ -2,7 +2,7 @@ Imagine that you have an ice cube sitting on the table in front of you. The room
 is cold and you can see your breath. It is currently twenty-five degrees. Ever so
 slowly, the room begins to heat up.
 Twenty-six degrees.
-Twenty-seven.
+Twenty-seven. anuj was here
 Twenty-eight.
 The ice cube is still sitting on the table in front of you.
 Twenty-nine degrees.
